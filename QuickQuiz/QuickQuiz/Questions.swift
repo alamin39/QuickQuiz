@@ -3,7 +3,7 @@
 //  QuickQuiz
 //
 //  Created by Al-Amin on 25/2/21.
-//  Copyright © 2021 Faruk Hossain. All rights reserved.
+//  Copyright © 2021 Al-Amin. All rights reserved.
 //
 
 import Foundation
